@@ -1,3 +1,7 @@
+# **WARNING: This repo is no longer being updated or supported.**
+## Please refer to the [CMS Design System](design.cms.gov).
+
+
 # [styleguide.healthcare.gov](https://styleguide.healthcare.gov)
 
 To get started with the HealthCare.gov assets library, you’ll need to use the required HTML, grid system framework, JavaScript, and CSS.
